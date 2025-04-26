@@ -48,7 +48,7 @@ Os testes foram divididos em três grandes áreas:
 1. Clone este repositório:
 
    ```bash
-   git clone [link-do-repositorio]
+   git clone https://github.com/teresaccampos/Squad5AT.git
    ```
 
 2. Instale as dependências:
