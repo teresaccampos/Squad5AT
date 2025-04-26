@@ -14,7 +14,7 @@ O sistema testado é o e-commerce **[Sauce Demo](https://www.saucedemo.com/)**, 
 
 - [Cypress](https://www.cypress.io/) — Framework de automação de testes
 - JavaScript
-- Mock (estrutura de testes BDD, nativo no Cypress)
+- Mocha (estrutura de testes BDD, nativo no Cypress)
 
 ---
 
