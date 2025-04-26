@@ -57,21 +57,15 @@ Os testes foram divididos em três grandes áreas:
    npm install
    ```
 
-3. Execute os testes no Cypress:
+3. Rodando os testes
+``` 
+npm run e2e:chrome
+```
 
-   - Para abrir o Cypress:
-
-     ```bash
-     npx cypress open
-     ```
-
-   - Ou para rodar em modo headless:
-
-     ```bash
-     npx cypress run
-     ```
-
----
+4. Abrindo o Cypress
+``` 
+npm run cy:open
+```
 
 ## 🛠️ Organização do Código
 
