@@ -84,6 +84,13 @@ Os testes foram divididos em três grandes áreas:
 ## 👩‍💻 Desenvolvido por
 
  **Squad 5** — **Bootcamp QA Atlântico Avanti**  
+Lidiane Oliveira
+Juliane Azevedo
+Orquídea Barbosa
+Pedro Martins
+Teresa Campos
+Tiago Mascarenhas
+
 Com orgulho e dedicação para promover qualidade de software! 
 
 ---
